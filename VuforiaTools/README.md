@@ -42,3 +42,5 @@ The window is set and not dynamic or adjustable. You can go into the WindowVufor
 A big thank you to CÀ PHÊ KHÔNG ĐƯỜNG (No Sugar Coffee) [for his original post about uploading image targets from within Unity here](https://breakdownblogs.wordpress.com/2015/11/13/adding-image-target-to-cloud-database-use-api-vuforia-and-www-unity/)
 
 If you would like to take a look at the Vuforia Web Services I used to put together the rest of the features for this tool [you can find that here](https://library.vuforia.com/content/vuforia-library/en/articles/Solution/How-To-Use-the-Vuforia-Web-Services-API.html)
+
+If you have any questions, comments, or suggestions feel free to email me at [lweldon@taylordigital.io](mailto:lweldon@taylordigital.io)
