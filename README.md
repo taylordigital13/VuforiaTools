@@ -27,7 +27,7 @@ After uploading a new target, it will appear at the bottom of the list and the t
 There is a Search Field as well, but that's pretty self explainatory
 
 ## Useful Excel Information After Collecting Multiple Days of Data
-In the transpose .csv file. If you select the cell B2, it's the first cell that displays how many recos there are. Apply conditional formatting, select enter formula and type =B2>B3, it's important if you click and it shows =$B$2>$B$3 that you remove the $s. Then right click and drag to the second to last cell on the right and apply formatting only. Then with all those cells still highlighted right click and drag down to the last cells at the bottom and apply formatting only. This will essentially highlight each day that any image target was scanned. Useful for knowing which image targets have been used and how recently. 
+In the transpose .csv file. If you select the cell B2, it's the first cell that displays how many recos there are. Apply conditional formatting, select enter formula and type =B2>C2, it's important if you click and it shows =$B$2>$C$2 that you remove the $s. Then right click and drag to the second to last cell on the right and apply formatting only. Then with all those cells still highlighted right click and drag down to the last cells at the bottom and apply formatting only. This will essentially highlight each day that any image target was scanned. Useful for knowing which image targets have been used and how recently. 
 
 The date format is YYYYMMDD to make it easy to sort when creating the .csv files
 
